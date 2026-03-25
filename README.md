@@ -33,7 +33,7 @@ Aplikasi RESTful API sederhana untuk manajemen data buku menggunakan **Node.js, 
 Clone repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/PrasetyoBudiWibowo/book-manager
 cd book-manager
 ```
 
